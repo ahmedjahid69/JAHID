@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio - Building Software with AI Agents",
+  "description": "Full-stack software engineer portfolio replicating the design, visual hierarchy, and interactions of sifath.me.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
